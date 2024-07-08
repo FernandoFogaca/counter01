@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  color: #ffffff;
+  margin-top: 15rem;
+  background-color: #090909;
+  font-size: 20px;
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  }
+}
